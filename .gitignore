@@ -63,6 +63,5 @@ Thumbs.db
 *.weights
 runs/
 results/
-output/
 inference/output/
 mod
